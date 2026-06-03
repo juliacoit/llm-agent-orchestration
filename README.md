@@ -1,8 +1,12 @@
-# LLM Dynamic Routing Agents
+﻿# LLM Agent Orchestration
 
-Este repositório reúne o material da apresentação do grupo de estudos de NLP: **Roteamento Dinâmico com LLMs**.
+Este repositório reúne o material do **Encontro 2: Roteamento Dinâmico com LLMs**.
 
 O objetivo é estudar como LLMs podem atuar como roteadores inteligentes em sistemas com múltiplos agentes, comparando abordagens determinísticas com decisões baseadas em linguagem natural e explorando padrões de orquestração multiagente.
+
+## Tema central
+
+**Roteamento Dinâmico com LLMs e Arquiteturas Multiagente**
 
 ## Temas abordados
 
@@ -22,9 +26,9 @@ O objetivo é estudar como LLMs podem atuar como roteadores inteligentes em sist
 
 ## Estrutura do repositório
 
-- `presentation/`: roteiro, divisão do grupo, referências e planejamento dos slides.
-- `docs/`: explicações teóricas dos principais conceitos.
-- `docs/padroes/`: explicações específicas dos padrões multiagente.
+- `presentation/`: material da apresentação, roteiro, slides e divisão do grupo.
+- `docs/`: conteúdo teórico do encontro.
+- `docs/padroes/`: explicação dos padrões multiagente.
 - `demo/`: código da demonstração prática.
 - `diagrams/`: diagramas usados na apresentação.
 - `assets/`: imagens e recursos auxiliares.
@@ -39,4 +43,4 @@ O objetivo é estudar como LLMs podem atuar como roteadores inteligentes em sist
 
 ## Objetivo da demo
 
-A demo apresenta um agente coordenador capaz de encaminhar tarefas para subagentes especializados, mostrando conceitos como `transfer_to_agent` e `agent_as_tool`.
+A demo apresenta um agente coordenador capaz de encaminhar tarefas para subagentes especializados, mostrando a ideia de roteamento, transferência de responsabilidade e agentes usados como ferramentas.

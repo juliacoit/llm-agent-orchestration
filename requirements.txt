@@ -1,0 +1,5 @@
+﻿# Dependências opcionais para a demo
+# A demo atual é conceitual e pode rodar apenas com Python padrão.
+
+# openai
+# python-dotenv
