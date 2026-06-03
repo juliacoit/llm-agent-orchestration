@@ -1,6 +1,6 @@
 # LLM Dynamic Routing Agents
 
-Este repositório reúne o material do Encontro 2: **Roteamento Dinâmico com LLMs**.
+Este repositório reúne o material da apresentação do grupo de estudos de NLP: **Roteamento Dinâmico com LLMs**.
 
 O objetivo é estudar como LLMs podem atuar como roteadores inteligentes em sistemas com múltiplos agentes, comparando abordagens determinísticas com decisões baseadas em linguagem natural e explorando padrões de orquestração multiagente.
 
